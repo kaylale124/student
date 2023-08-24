@@ -6,7 +6,7 @@ title: Student Blog
 
 ## Build Your Own Home Page
 This is about your journey. Start now!!!
-<img src="IMG_1153.jpg">
+![alt about me](IMG_1153.jpg)
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
