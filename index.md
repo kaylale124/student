@@ -12,7 +12,7 @@ This is about your journey. Start now!!!
 - I'm vietnamese
 - I like playing soccer, being with family, and baking
 
-<a href="https://www.loveandlemons.com/brownies-recipe/"> Click here for a great brownie recipe
+- <a href="https://www.loveandlemons.com/brownies-recipe/"> Click here for a great brownie recipe
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
