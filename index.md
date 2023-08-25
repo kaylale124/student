@@ -7,7 +7,7 @@ title: Student Blog
 ## Kayla's Home Page
 This is about your journey. Start now!!!
 ### About Me!
-<img src="images\IMG_1153.jpg" width="50%">
+<img src="images\IMG_1159.jpg" width="50%">
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
