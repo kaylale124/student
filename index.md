@@ -22,7 +22,7 @@ Blogging in GitHub pages is a way to learn and code at the same time.
 
 ## My Weekly Updates
 
-| Weeks  | Struggles  | Learned  | Updated  |
-| ------ | ---------- | -------- | -------- |
-| Week 0 |Certain commands wouldn't work (ex:make wouldn't work unless bundle install was done) |How to set up tools (Github, VSCode,Jupyter Notebooks, a Slack account, WSL) | My Blog  |
-| Week 1 |            |          |          |
+| Weeks   | Struggles  | Learned  | Updated  |
+| ------- | ---------- | -------- | -------- |
+| Week 0  |Certain commands wouldn't work (ex:make wouldn't work unless bundle install was done) |How to set up tools (Github, VSCode,Jupyter Notebooks, a Slack account, WSL) | My Blog  |
+| Week 1  |            |          |          |
