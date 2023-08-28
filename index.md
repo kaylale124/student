@@ -9,7 +9,7 @@ This is about your journey. Start now!!!
 ### About Me!
 <img src="images\IMG_1159.jpg" width="50%">
 - I've lived in San Diego, CA my whole life
-- I'm vietnamese
+- I'm Vietnamese
 - I like playing soccer, being with family, and baking
 - <a href="https://www.loveandlemons.com/brownies-recipe/"> Click here for a great brownie recipe
 
