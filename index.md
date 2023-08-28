@@ -24,4 +24,4 @@ Blogging in GitHub pages is a way to learn and code at the same time.
 
 | Weeks  | Struggles  | Learned  | Updated  |
 | ------ | ---------- | -------- | -------- |
-| Week 0 |            |How to set up tools (Github, VSCode,Jupyter Notebooks, a Slack account, WSL) | My Blog  |
+| Week 0 |Certain commands wouldn't work (ex:make wouldn't work unless bundle install was done) |How to set up tools (Github, VSCode,Jupyter Notebooks, a Slack account, WSL) | My Blog  |
